@@ -7,13 +7,13 @@ const projects = [
   
     {
         name: "New Year Countdown",
-        github: "https://github.com/MuhammadTalha123/Nea-Year-Countdown",
-        path: "https://muhammadtalha123.github.io/Nea-Year-Countdown/"
+        github: "https://github.com/umairnisar5/New-Year-Countdown",
+        path: "https://umairnisar5.github.io/Nea-Year-Countdown/"
     },
     {
         name: "Rlaxer",
-        github: "https://github.com/MuhammadTalha123/Rlaxer",
-        path:  "https://muhammadtalha123.github.io/Rlaxer/"
+        github: "https://github.com/umairnisar5/relaxer-app",
+        path:  "https://umairnisar5.github.io/Rlaxer/"
     },
     {
       name: "Sportable-list",
