@@ -20,11 +20,11 @@ const projects = [
       github: "https://github.com/umairnisar5/sortable-list",
       path:  "https://umairnisar5.github.io/Sportable-list/"
   },
-//   {
-//       name: "Speach-text-reader",
-//       github: "https://github.com/umairnisar5/speak-number-gusesing",
-//       path:  "https://umairnisar5.github.io/Speach-text-reader/"
-//   },
+  {
+      name: "Booking Seat ",
+      github: "https://https://github.com/umairnisar5/booking",
+      path:  "https://https://github.com/umairnisar5/booking/"
+  },
   {
       name: "Speak-number-gussing",
       github: "https://github.com/umairnisar5/speak-number-gusesing",
@@ -41,59 +41,51 @@ const projects = [
       path:  "https://umairnisar5.github.io/Music-Player/"
   },
   {
-      name: "Movie-seat-booking",
-      github: "https://github.com/MuhammadTalha123/Movie-seat-booking",
-      path:  "https://muhammadtalha123.github.io/Movie-seat-booking/"
+      name: "Meal Finder",
+      github: "https://github.com/umairnisar5/meal-finder",
+      path:  "https://umairnisar5.io/Movie-seat-booking/"
   },
   {
-      name: "Model-Menu-Slider",
-      github: "https://github.com/MuhammadTalha123/Model-Menu-Slider",
-      path:  "https://muhammadtalha123.github.io/Model-Menu-Slider/"
+      name: "Menu-Slider",
+      github: "https://github.com/umairnisar5/menu-slider",
+      path:  "https://umairnisar5.github.io/Model-Menu-Slider/"
   },
   {
       name: "Memory-card",
-      github: "https://github.com/MuhammadTalha123/Memory-card",
+      github: "https://github.com/umairnisar5/memory-cards",
       path:  "https://muhammadtalha123.github.io/Memory-card/"
   },
-  {
-      name: "Meal-Finder",
-      github: "https://github.com/MuhammadTalha123/Meal-Finder",
-      path:  "https://muhammadtalha123.github.io/Meal-Finder/"
-  },
+
   {
       name: "Lyrics-search",
-      github: "https://github.com/MuhammadTalha123/Lyrics-search",
-      path:  "https://muhammadtalha123.github.io/Lyrics-search/"
+      github: "https://github.com/umairnisar5/lyrics-search",
+      path:  "https://umairnisar5.github.io/Lyrics-search/"
   },
-  {
-      name: "Infinite-Scroll-Blog",
-      github: "https://github.com/MuhammadTalha123/Infinite-Scroll-Blog",
-      path:  "https://muhammadtalha123.github.io/Infinite-Scroll-Blog/"
-  },
+ 
   {
       name: "Hangman-Game",
-      github: "https://github.com/MuhammadTalha123/Hangman-Game",
-      path:  "https://muhammadtalha123.github.io/Hangman-Game/"
+      github: "https://github.com/umairnisar5/hangman-game1",
+      path:  "https://umairnisar5.github.io/Hangman-Game/"
   },
   {
-      name: "Expense-Tracker",
-      github: "https://github.com/MuhammadTalha123/Expense-Tracker",
-      path:  "https://muhammadtalha123.github.io/Expense-Tracker/"
+      name: "Net Flix ",
+      github: "https://github.com/umairnisar5/top-five-netflix",
+      path:  "https://umairnisar5.github.io/Expense-Tracker/"
   },
   {
-      name: "Exchange-Rate-Calculator",
-      github: "https://github.com/MuhammadTalha123/Exchange-Rate-Calculator",
-      path:  "https://muhammadtalha123.github.io/Exchange-Rate-Calculator/"
+      name: "Expence Tracker",
+      github: "https://github.com/umairnisar5/expense-tracker-react-project",
+      path:  "https://umairnisar5.github.io/Exchange-Rate-Calculator/"
   },
   {
-      name: "Dom-Array-Mrthods",
-      github: "https://github.com/MuhammadTalha123/Dom-Array-Mrthods",
-      path:  "https://muhammadtalha123.github.io/Dom-Array-Mrthods/"
+      name: "Web Animations",
+      github: "https://github.com/umairnisar5/red-queen-api",
+      path:  "https:/umairnisar5.github.io/Dom-Array-Mrthods/"
   },
   {
-      name: "Custom-Vedio-Player",
-      github: "https://github.com/MuhammadTalha123/Custom-Vedio-Player",
-      path:  "https://muhammadtalha123.github.io/Custom-Vedio-Player/"
+      name: "Custom-Music-Player",
+      github: "https://github.com/umairnisar5/music-player",
+      path:  "https://umairnisar5.github.io/Custom-Vedio-Player/"
   },
   ];
 
