@@ -10,13 +10,13 @@
   }
   .header_img {
     background-color: white;
-    background-image: url("./img/profiles.jpg");
+    background-image: url("./img/black.jpg");
     background-repeat: no-repeat;
     background-position: right bottom;
     border: 2px solid blanchedalmond;
     height: 100%;
-    width: 60%;
-    background-position: center;
+    width: 50%;
+    image-orientation: from-image;
   }
   
   .header_text {
