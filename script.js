@@ -17,28 +17,28 @@ const projects = [
     },
     {
       name: "Sportable-list",
-      github: "https://github.com/MuhammadTalha123/Sportable-list",
-      path:  "https://muhammadtalha123.github.io/Sportable-list/"
+      github: "https://github.com/umairnisar5/sortable-list",
+      path:  "https://umairnisar5.github.io/Sportable-list/"
   },
-  {
-      name: "Speach-text-reader",
-      github: "https://github.com/MuhammadTalha123/Speach-text-reader",
-      path:  "https://muhammadtalha123.github.io/Speach-text-reader/"
-  },
+//   {
+//       name: "Speach-text-reader",
+//       github: "https://github.com/umairnisar5/speak-number-gusesing",
+//       path:  "https://umairnisar5.github.io/Speach-text-reader/"
+//   },
   {
       name: "Speak-number-gussing",
-      github: "https://github.com/MuhammadTalha123/Speak-number-gussing",
-      path:  "https://muhammadtalha123.github.io/Speak-number-gussing/"
+      github: "https://github.com/umairnisar5/speak-number-gusesing",
+      path:  "https://umairnisar5.github.io/Speak-number-gussing/"
   },
   {
       name: "Typing-Game",
-      github: "https://github.com/MuhammadTalha123/Typing-Game",
-      path:  "https://muhammadtalha123.github.io/Typing-Game/"
+      github: "https://github.com/umairnisar5/typing-game-",
+      path:  "https://umairnisar5.github.io/Typing-Game/"
   },
   {
       name: "Music-Player",
-      github: "https://github.com/MuhammadTalha123/Music-Player",
-      path:  "https://muhammadtalha123.github.io/Music-Player/"
+      github: "https://github.com/umairnisar5/music-player",
+      path:  "https://umairnisar5.github.io/Music-Player/"
   },
   {
       name: "Movie-seat-booking",
