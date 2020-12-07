@@ -80,12 +80,12 @@ const projects = [
   {
       name: "Web Animations",
       github: "https://github.com/umairnisar5/red-queen-api",
-      path:  "https:/umairnisar5.github.io/Dom-Array-Mrthods/"
+      path:  "https:/https://github.com/umairnisar5/red-queen-api/"
   },
   {
-      name: "Custom-Music-Player",
-      github: "https://github.com/umairnisar5/music-player",
-      path:  "https://umairnisar5.github.io/Custom-Vedio-Player/"
+      name: "E-commernce",
+      github: "https://github.com/umairnisar5/e-commerce",
+      path:  "https://github.com/umairnisar5/e-commerce"
   },
   ];
 
